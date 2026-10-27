@@ -1,0 +1,2 @@
+# supanotes
+Supabase notes
